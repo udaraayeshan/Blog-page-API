@@ -1,4 +1,6 @@
 fastapi
 uvicorn
 xmltodict
+lxml
 beautifulsoup4
+requests
